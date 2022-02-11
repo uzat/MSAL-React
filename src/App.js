@@ -1,12 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
 import React from 'react';
 import { PageLayout } from "./components/PageLayout";
 
 function App() {
   return (
     <PageLayout>
-      <p>This is the main page content</p>
+      <p>This is the main page</p>
     </PageLayout>
   );
 }
